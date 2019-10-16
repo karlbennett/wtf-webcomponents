@@ -1,10 +1,3 @@
-It's all lies!
-==============
-
-~HTML Imports~ ES Modules
-
-Custom Elements
-
-HTML Template
-
-Shadow DOM
+NOES!
+=====
+![OH NOES!!!1](slides/oh-noes.png)

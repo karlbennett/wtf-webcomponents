@@ -8,6 +8,12 @@ Encapsulation? Yes please.
   <head>
   </head>
   <body>
+    <style>p {color: green}</style>
+    <div>
+      <shadow>
+        <p>I'm NOT GREEN!</p>
+      </shadow>
+    </div>
     <div>
       <shadow>
         <style>p {color: red}</style>
@@ -15,7 +21,7 @@ Encapsulation? Yes please.
       </shadow>
     </div>
   
-    <p>I'm NOT RED!</p>
+    <p>I'm NOT RED! But I am green.</p>
   </body>
 </html>
 ```

@@ -1,17 +1,10 @@
-ES Modules
-==========
+It's all lies!
+==============
 
-FINALLY! I can import JS into HTML! I can't believe I couldn't already do this...
+~HTML Imports~ ES Modules
 
-```html
-<html>
-  <head>
-    <script type="module">
-      // This new "script" tag is AMAZE!
-      import 'some-trash.js';
-    </script>
-  </head>
-  <body>
-  </body>
-</html>
-```
+Custom Elements
+
+HTML Template
+
+Shadow DOM

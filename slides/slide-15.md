@@ -1,4 +1,4 @@
-Demo!
-=====
+Are Webcomponents still worth it?
+=================================
 
-This time.
+Maybe.
